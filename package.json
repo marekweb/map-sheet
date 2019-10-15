@@ -1,0 +1,14 @@
+{
+  "name": "map-sheet",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write '**/*.js'"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "xlsx": "^0.15.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
